@@ -1,0 +1,29 @@
+Ecommerce-Backend/dist
+Ecommerce-Backend/node_modules
+Ecommerce-Backend/.env
+
+# FRONTEND
+# Logs
+Ecommerce-Frontend/logs
+Ecommerce-Frontend/*.log
+Ecommerce-Frontend/npm-debug.log*
+Ecommerce-Frontend/yarn-debug.log*
+Ecommerce-Frontend/yarn-error.log*
+Ecommerce-Frontend/pnpm-debug.log*
+Ecommerce-Frontend/lerna-debug.log*
+
+Ecommerce-Frontend/node_modules
+Ecommerce-Frontend/dist
+Ecommerce-Frontend/dist-ssr
+Ecommerce-Frontend/*.local
+
+# Editor directories and files
+Ecommerce-Frontend/.vscode/*
+Ecommerce-Frontend/!.vscode/extensions.json
+Ecommerce-Frontend/.idea
+Ecommerce-Frontend/.DS_Store
+Ecommerce-Frontend/*.suo
+Ecommerce-Frontend/*.ntvs*
+Ecommerce-Frontend/*.njsproj
+Ecommerce-Frontend/*.sln
+Ecommerce-Frontend/*.sw?
